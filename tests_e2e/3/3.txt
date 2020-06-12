@@ -1,0 +1,2 @@
+Quit game
+Player is able to leave the game by press 'q'

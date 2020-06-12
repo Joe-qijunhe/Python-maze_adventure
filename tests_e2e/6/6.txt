@@ -1,0 +1,3 @@
+Teleport
+If player step in Teleport, he is transit to the corresponding Teleport.
+If player is on the Teleport and step in wall, the Teleport is not retrigger and step in wall is not recorded.

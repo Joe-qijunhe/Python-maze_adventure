@@ -1,0 +1,2 @@
+Walk into a wall
+When the player step out bound or and step a wall, their position stays the same and this move is not recorded.

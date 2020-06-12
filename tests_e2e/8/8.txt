@@ -1,0 +1,2 @@
+board_hard win
+If player is in Teleport press 'e', he will be transit to corresponding Teleport.

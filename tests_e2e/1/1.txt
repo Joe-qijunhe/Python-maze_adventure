@@ -1,0 +1,2 @@
+Simple game success
+When the player step in end, he is win.

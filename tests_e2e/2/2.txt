@@ -1,0 +1,2 @@
+Simple game lose
+When the player does not have water and step in fire, he is lose.

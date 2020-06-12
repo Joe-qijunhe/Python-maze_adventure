@@ -1,0 +1,3 @@
+Invalid input and capitial case input
+If users input one of 'WASDEQ', it should be same as one of 'wasdeq'
+If users input other move, it should raise warning and not record this move.

@@ -1,0 +1,3 @@
+Water and Fire interaction
+If the player step in water, their number of water should increase by 1. Then the water cell is act as Air.
+If the player have more than one water and step in fire, their number of water decrease by 1. Then the water cell is act as Air.
